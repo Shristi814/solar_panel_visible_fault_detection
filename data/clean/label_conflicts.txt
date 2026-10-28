@@ -1,0 +1,10 @@
+b932e847d063bac3e4943fc677a19c59
+   Bird-drop: C:\Users\hp\Downloads\archive\train\Bird-drop\Bird (176).jpg
+   Bird-drop: C:\Users\hp\Downloads\archive\train\Bird-drop\Bird (184).jpg
+   Bird-drop: C:\Users\hp\Downloads\archive\train\Bird-drop\Bird (22).jpg
+   Bird-drop: C:\Users\hp\Downloads\archive\train\Bird-drop\Bird (46).jpg
+   Bird-drop: C:\Users\hp\Downloads\archive\val\Bird-drop\Bird (57).jpg
+   Physical-Damage: C:\Users\hp\Downloads\archive\val\Physical-Damage\Physical (141).jpg
+a5c5841cf608a86e08b63c02b9eab2a6
+   Bird-drop: C:\Users\hp\Downloads\archive\train\Bird-drop\Bird (193).jpg
+   Dusty: C:\Users\hp\Downloads\archive\val\Dusty\Dust (187).jpg
