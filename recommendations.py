@@ -74,6 +74,12 @@ RECOMMENDATIONS = {
             "Call a certified solar technician or your installer to inspect and replace the module.",
         ],
     },
+    "Not-a-panel": {
+    "description": "The uploaded image does not appear to be a photovoltaic solar panel. It may be a room, outdoor scene, face, or general object.",
+    "severity": "N/A",
+    "urgency": "None",
+    "recommendation": "Please upload a valid solar panel image for defect analysis."
+}
 }
 
 

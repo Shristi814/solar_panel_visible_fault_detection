@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets and caches
+data/
+data/_cache/
+data/_places_cache/
+
+# Large model weights (keep these local or share via cloud storage)
+models/*.pth
